@@ -2,7 +2,8 @@
 
 
 def mostrar_menu():
-    print("\n--- MENÚ PRINCIPAL ---")
+    print("\n==================================")
+    print("    PROYECTO DE OPERACIONES BASICAS ")
     print("1. Saludar")
     print("2. Sumar dos números")
     print("3. Restar dos números")
